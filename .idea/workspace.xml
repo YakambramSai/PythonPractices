@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37085f20-23c3-4ab7-bae9-121742d5eb7b" name="Default Changelist" comment="" />
+    <list default="true" id="37085f20-23c3-4ab7-bae9-121742d5eb7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CastingTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DifferenceBetweenTwoList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExponentiationTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FloorDivisionTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseStringWithoutEffectingSpecialChars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringChecking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringFormater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringReverseWithoutEffectingSpecialChars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +25,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PsR1vhySLzzDZ9EcOs9ONRNdNU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
@@ -93,5 +109,18 @@
       <updated>1566660605753</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
